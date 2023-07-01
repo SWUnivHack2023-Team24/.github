@@ -2,11 +2,11 @@
   
 SW 중심대학 공동해커톤
 # YELLOW CALENDAR
-🚕노후 경유차 케어 서비스🚕
+### Team. Dust Driver
 
 </div>
 
-![title](./img/main.png)
+![./img/main.png](https://github.com/SWUnivHack2023-Team24/.github/blob/main/profile/img/main.png?raw=true)
 
 ## BACKGROUND
 
@@ -53,8 +53,8 @@ SW 중심대학 공동해커톤
 
 |                      |                      |
 | -------------------- | -------------------- |
-| ![1](./img/des1.png) | ![2](./img/des2.png) |
-| ![3](./img/des3.png) | ![4](./img/des4.png) |
+| ![1](https://github.com/SWUnivHack2023-Team24/.github/blob/main/profile/img/des1.png?raw=true) | ![2](https://github.com/SWUnivHack2023-Team24/.github/blob/main/profile/img/des2.png?raw=true) |
+| ![3](https://github.com/SWUnivHack2023-Team24/.github/blob/main/profile/img/des3.png?raw=true) | ![4](https://github.com/SWUnivHack2023-Team24/.github/blob/main/profile/img/des4.png?raw=true) |
 
 ## 기대효과
 
